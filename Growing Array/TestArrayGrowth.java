@@ -1,7 +1,4 @@
 // Author: SANTHOSH KUMAR KASA
-// E-Mail ID: skasa@andrew.cmu.edu
-// CLASS OF 2015 - MAY BATCH.
-// HEINZ COLLEGE- CARNEGIE MELLON UNIVERSITY.
 
 /**
   Function: This is a driver program for Grow Array which tests up to 3 D arrays.
