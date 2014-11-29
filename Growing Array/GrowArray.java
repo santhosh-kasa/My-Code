@@ -1,7 +1,4 @@
 // Author: SANTHOSH KUMAR KASA
-// E-Mail ID: skasa@andrew.cmu.edu
-// CLASS OF 2015 - MAY BATCH.
-// HEINZ COLLEGE- CARNEGIE MELLON UNIVERSITY.
 
 /**
   Function: This method increases the length of array by 4 in all plausible dimensions.
